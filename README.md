@@ -7,9 +7,8 @@
 ## I'm a Son, Developer, Foodie and Traveller!!
 
 - 🔭 I just deployed my portfolio: [Arman From Web Tech][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects | Stay alive and spread COVID awareness
 - ⚡ Fun fact: I love to game on PC and I am a very bad chef coz I hate cooking.
 
 <br/>
